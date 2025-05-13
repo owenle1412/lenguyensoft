@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LeNguyen Software",
+  title: "LeNguyen Soft",
   description: "Solutions for your business",
 };
 
