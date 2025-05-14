@@ -155,7 +155,7 @@ export default function Home() {
               </h2>
               <p className="text-gray-400 text-base md:text-lg">
                 <span className="inline-flex items-center justify-center space-x-2 mt-2">
-                  <span>💄&nbsp;</span>
+                  <span>💄</span>
                   <span>
                     Senior App Specialist at{" "}
                     <a
